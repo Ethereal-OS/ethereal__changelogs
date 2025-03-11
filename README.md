@@ -1,7 +1,7 @@
-# 👻 Ethereal OS | ENIGMA | STABLE
+# 👻 Ethereal OS | ELEGANCE | STABLE
 
 ## 🌍✨ Introduction
-Enigma – Unravel the Future is here! This update brings Android 14 enhancements, exciting new features, performance boosts, and essential bug fixes.
+ELEGANCE – Unravel the Future is here! This update brings Android 14 enhancements, exciting new features, performance boosts, and essential bug fixes.
 
 ---
 
