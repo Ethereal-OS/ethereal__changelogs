@@ -6,7 +6,7 @@ ELEGANCE – Unravel the Future is here! This update brings Android 14 enhanceme
 ---
 
 ## 🔒 Security Updates
-- **Android Security Patches:** Up-to-date as of **March 2025** with Android 14 changes.
+- **Android Security Patches:** Up-to-date as of **June 2025** with Android 14 changes.
 
 ---
 
